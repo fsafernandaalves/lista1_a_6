@@ -1,0 +1,11 @@
+C:\Users\Fernanda\source\repos\Lista3\Lista3\bin\Debug\netcoreapp2.1\Lista3.deps.json
+C:\Users\Fernanda\source\repos\Lista3\Lista3\bin\Debug\netcoreapp2.1\Lista3.runtimeconfig.json
+C:\Users\Fernanda\source\repos\Lista3\Lista3\bin\Debug\netcoreapp2.1\Lista3.runtimeconfig.dev.json
+C:\Users\Fernanda\source\repos\Lista3\Lista3\bin\Debug\netcoreapp2.1\Lista3.dll
+C:\Users\Fernanda\source\repos\Lista3\Lista3\bin\Debug\netcoreapp2.1\Lista3.pdb
+C:\Users\Fernanda\source\repos\Lista3\Lista3\obj\Debug\netcoreapp2.1\Lista3.csprojAssemblyReference.cache
+C:\Users\Fernanda\source\repos\Lista3\Lista3\obj\Debug\netcoreapp2.1\Lista3.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\source\repos\Lista3\Lista3\obj\Debug\netcoreapp2.1\Lista3.AssemblyInfoInputs.cache
+C:\Users\Fernanda\source\repos\Lista3\Lista3\obj\Debug\netcoreapp2.1\Lista3.AssemblyInfo.cs
+C:\Users\Fernanda\source\repos\Lista3\Lista3\obj\Debug\netcoreapp2.1\Lista3.dll
+C:\Users\Fernanda\source\repos\Lista3\Lista3\obj\Debug\netcoreapp2.1\Lista3.pdb
